@@ -1,6 +1,8 @@
 # SML
 Assignment-1
 https://colab.research.google.com/drive/1WrLat_G1U10Q_S3bjPxqPu2EeRquvATz#scrollTo=f_vWEwaatxha
+Assignment-3
+https://colab.research.google.com/drive/1wbe9K1EbXiI4FHCA9xTAc5n7IXpY42pF
 assignement 5
 https://colab.research.google.com/drive/15EWEDqlOtm2EBqZquXZuqqLxF1lq_xHa#scrollTo=3rIj7nKUk5r1
 Assignment-6
